@@ -41,6 +41,8 @@ python3 cliente.py
 
 ### Prueba 1: Envío de Mensaje Normal
 ![Prueba de mensaje normal](/img/1.png)
+[Prueba de mensaje](/img/2.png)
+[Prueba de mensaje](/img/3.png)
 
 La imagen muestra:
 - Servidor iniciado correctamente en localhost:5000
@@ -50,7 +52,7 @@ La imagen muestra:
 - Logs detallados de la comunicación
 
 ### Prueba 2: Prueba de Desconexión
-![Prueba de desconexión](/img/2.png)
+![Prueba de desconexión](/img/4.png)
 
 Se puede observar:
 - Envío del comando "DESCONEXION"
