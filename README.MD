@@ -44,7 +44,7 @@ python3 cliente.py
 [Prueba de mensaje](/img/2.png)
 [Prueba de mensaje](/img/3.png)
 
-La imagen muestra:
+Las imagenes muestran:
 - Servidor iniciado correctamente en localhost:5000
 - Cliente conectado exitosamente
 - Mensaje "hola servidor" enviado
