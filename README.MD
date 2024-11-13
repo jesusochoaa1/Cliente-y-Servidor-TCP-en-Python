@@ -115,13 +115,4 @@ El proyecto está desarrollado siguiendo las mejores prácticas:
 - Logging para debugging
 - Clean code principles
 
-## ✨ Mejoras Futuras
 
-- [ ] Implementar GUI
-- [ ] Soporte para múltiples clientes simultáneos
-- [ ] Configuración mediante archivo externo
-- [ ] Sistema de autenticación
-
-## 📄 Licencia
-
-Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
