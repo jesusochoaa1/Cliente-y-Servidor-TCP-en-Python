@@ -40,9 +40,8 @@ python3 cliente.py
 ## 📝 Pruebas Realizadas
 
 ### Prueba 1: Envío de Mensaje Normal
-![Prueba de mensaje normal](/img/1.png)
 [Prueba de mensaje](/img/2.png)
-[Prueba de mensaje](/img/3.png)
+[Prueba de mensaje 2](/img/3.png)
 
 Las imagenes muestran:
 - Servidor iniciado correctamente en localhost:5000
